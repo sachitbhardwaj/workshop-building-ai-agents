@@ -1,0 +1,6 @@
+openai>=1.40
+foundry-local-sdk>=2.2
+headroom-ai>=0.41
+truststore>=0.10
+# Example 5 only (REA over MCP)
+mcp>=2.3
